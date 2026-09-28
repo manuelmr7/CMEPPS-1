@@ -2,3 +2,4 @@ Versión 1
 Línea en rama A (paso 2)
 Línea en rama A (paso 3)
 Trabajo descartado (paso 5)
+Más trabajo descartado (paso 8)

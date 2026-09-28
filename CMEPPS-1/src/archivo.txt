@@ -1,1 +1,3 @@
 Versión 1
+Línea en rama A (paso 2)
+Línea en rama A (paso 3)
